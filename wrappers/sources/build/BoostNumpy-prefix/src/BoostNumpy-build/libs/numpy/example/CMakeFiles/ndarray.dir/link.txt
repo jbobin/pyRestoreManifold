@@ -1,0 +1,1 @@
+/opt/local/bin/g++   -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/ndarray.dir/ndarray.cpp.o  -o ../../../bin/ndarray ../../../lib/libboost_numpy.a /usr/local/lib/libboost_python.dylib /opt/local/lib/libpython2.7.dylib 

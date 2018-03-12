@@ -1,0 +1,10 @@
+# Hashes of file build rules.
+a935d0faddb9c15a3f1c8a6506d28ad0 BoostNumpy-prefix/src/BoostNumpy-stamp/BoostNumpy-build
+37531b9de2366191577997ef19101362 BoostNumpy-prefix/src/BoostNumpy-stamp/BoostNumpy-configure
+a8dcfb539ea22e4b6573ed83290d6474 BoostNumpy-prefix/src/BoostNumpy-stamp/BoostNumpy-download
+eb62d00ce81797dcc2af190bff64d7ee BoostNumpy-prefix/src/BoostNumpy-stamp/BoostNumpy-install
+13411767295b999f81a76f6a4dfb0646 BoostNumpy-prefix/src/BoostNumpy-stamp/BoostNumpy-mkdir
+d5f8513d739680453743d6afc049e463 BoostNumpy-prefix/src/BoostNumpy-stamp/BoostNumpy-patch
+3b4b905180e4536e42c272657e6a0646 BoostNumpy-prefix/src/BoostNumpy-stamp/BoostNumpy-update
+cb99b4ae76537307eebabc17a7ad5443 CMakeFiles/BoostNumpy
+183391830fccbe378cbc34f5df9e4b64 CMakeFiles/BoostNumpy-complete

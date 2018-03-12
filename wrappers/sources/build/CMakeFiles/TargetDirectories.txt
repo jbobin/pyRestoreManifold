@@ -1,0 +1,4 @@
+/Users/jbobin/Documents/Python/LENA_DEVL/Toolbox/pyWrappers/MacWrappers/pystarlet_manifold/build/CMakeFiles/rebuild_cache.dir
+/Users/jbobin/Documents/Python/LENA_DEVL/Toolbox/pyWrappers/MacWrappers/pystarlet_manifold/build/CMakeFiles/edit_cache.dir
+/Users/jbobin/Documents/Python/LENA_DEVL/Toolbox/pyWrappers/MacWrappers/pystarlet_manifold/build/CMakeFiles/ManiMR.dir
+/Users/jbobin/Documents/Python/LENA_DEVL/Toolbox/pyWrappers/MacWrappers/pystarlet_manifold/build/CMakeFiles/BoostNumpy.dir

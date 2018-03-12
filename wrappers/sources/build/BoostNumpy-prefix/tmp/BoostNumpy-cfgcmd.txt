@@ -1,0 +1,1 @@
+cmd='/opt/local/bin/cmake;-DCMAKE_INSTALL_PREFIX=/Users/jbobin/Documents/Python/LENA_DEVL/Toolbox/pyWrappers/MacWrappers/pystarlet_manifold/build/extern;-DLIBRARY_TYPE=STATIC;-GUnix Makefiles;<SOURCE_DIR><SOURCE_SUBDIR>'

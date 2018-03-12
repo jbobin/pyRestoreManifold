@@ -1,0 +1,1 @@
+/opt/local/bin/g++  -bundle -Wl,-headerpad_max_install_names  -o ../../../lib/ufunc_mod.so CMakeFiles/ufunc_mod.dir/ufunc_mod.cpp.o ../../../lib/libboost_numpy.a /usr/local/lib/libboost_python.dylib /opt/local/lib/libpython2.7.dylib 
